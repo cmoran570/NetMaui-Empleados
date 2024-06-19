@@ -1,0 +1,1 @@
+C:\Users\cmora\source\repos\MauiAppCrud\MauiAppCrud\MauiAppCrud.csproj;x64
